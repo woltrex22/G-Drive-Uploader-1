@@ -46,7 +46,7 @@ Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/Jdndjdjsjensie
    - Openload  => Plugins > dlopenload.py
 
 ## Setup Your Own Bot
-```
+
 1. Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type) and Download  Its json
 
 2. Paste it In Bot Root Directroy  and Rename it "client_secrets.json"
@@ -54,9 +54,5 @@ Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/Jdndjdjsjensie
 3. Replace Your Bot Token in  [creds.py file](./creds.py)
 
 4. Your Bot is Ready to Host. 
-```
-### Deploy to Heroku
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-
 ### Credits
   - [Aryanvikash](https://github.com/aryanvikash/Google-Drive-Uploader) - Forked this repo
