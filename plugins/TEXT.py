@@ -9,7 +9,20 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = "Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>Support me</a>\nPlease Report Bugs  @aryanvikash"
+START = f'''Hi {}
+        I am Drive Uploader Bot .
+        Please Authorise To use me .
+        By using /auth
+        For more info /help
+        Third-Party Website
+        Support Added /update
+        For Bot Updates
+        <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>Support me</a>
+        Please Report Bugs  @aryanvikash"
+        '''
+buttons = button_build.ButtonMaker()
+    buttons.buildbutton("How to Deploy", "https://woltrex.blogspot.com/2021/08/how-to-create-own-telegram-mirror-bot.html")
+ 
         
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
