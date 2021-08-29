@@ -19,7 +19,7 @@ START = """Hi {}
  - Support Added /update
  - For Bot Updates
  - You want your own bot?
-   Watch this <b><a href="">Tutorial</a></b> Video
+   Watch this <a href="https://www.google.com">Tutorial</a> Video
         """
         
 HELP = """   <b>AUTHORISE BOT</b> 
@@ -68,7 +68,7 @@ Please  Send Me a  valid Token
    or 
 Re - Authorise Me
 You want your own bot?
-Watch this <b><a href="https://www.google.com">Tutorial</a></b> Video
+Watch this <a href="https://www.google.com">Tutorial</a> Video
               """
 OPENLOAD = True
 DROPBOX = True
