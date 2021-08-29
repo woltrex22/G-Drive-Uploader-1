@@ -58,8 +58,8 @@ DOWN_MEGA = "Downloading Started..."
 DOWN_COMPLETE = "Downloading complete !!"
 NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth"
 REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise"
-AUTH_SUCC = "Authorised Successfully  !! \n\n Now Send me A direct Link 🙂"
-ALREADY_AUTH = "You Are Already Authorised ! \n\n Wanna Change Drive Account? \n\n Use /revoke \n\nYou want your own bot? \n Watch this <b><a href="">Tutorial</a></b> Video "
+AUTH_SUCC = "Authorised Successfully  !! \n\nNow Send me A direct Link 🙂"
+ALREADY_AUTH = "You Are Already Authorised ! \n\nWanna Change Drive Account? \n\nUse /revoke \n\nYou want your own bot? \n Watch this <a href="">Tutorial</a> Video "
 AUTH_URL = '''
 Generate And Copy Your
 Google Drive Token
