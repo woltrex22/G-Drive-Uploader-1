@@ -9,7 +9,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @aryanvikash"
+START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n [channel](buttonurl:https://www.google.com)\nPlease Report Bugs  @aryanvikash"
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
