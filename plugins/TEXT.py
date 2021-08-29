@@ -20,7 +20,7 @@ START = """Hi {}
  - For Bot Updates
 
 <b>You want your own bot?</b>
-Watch this <a href="https://www.google.com">Tutorial</a> Video
+Watch this <a href="https://www.youtube.com">Tutorial</a> Video
         """
         
 HELP = """   <b>AUTHORISE BOT</b> 
@@ -46,7 +46,7 @@ Account ?</b> \n
  - Mega links
 
 <b>You want your own bot?</b>
-Watch this <a href="https://www.google.com">Tutorial</a> Video
+Watch this <a href="https://www.youtube.com">Tutorial</a> Video
               
         """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
