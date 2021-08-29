@@ -61,7 +61,7 @@ def auth(update, context):
         AUTH = TEXT.AUTH_URL.format(authurl)
         context.bot.send_message(
             chat_id=update.message.chat_id, text=AUTH, parse_mode=ParseMode.HTML)
-        buttons.buildbutton(f"Autho", f"https://www.google.com")", AUTH)
+        buttons.buildbutton(f"Autho", f"https://www.google.com")
 
     elif gauth.access_token_expired:
         # Refresh Token if expired
