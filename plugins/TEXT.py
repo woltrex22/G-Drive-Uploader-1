@@ -9,7 +9,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = f'''Hi {}
+START = """Hi {}
         I am Drive Uploader Bot .
         Please Authorise To use me .
         By using /auth
@@ -18,7 +18,7 @@ START = f'''Hi {}
         Support Added /update
         For Bot Updates
         Please Report Bugs  @aryanvikash
-        '''
+        """
 buttons = button_build.ButtonMaker()
     buttons.buildbutton("How to Deploy", "https://woltrex.blogspot.com/2021/08/how-to-create-own-telegram-mirror-bot.html")
  
