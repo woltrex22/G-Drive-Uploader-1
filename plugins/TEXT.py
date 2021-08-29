@@ -18,8 +18,9 @@ START = """Hi {}
  - Third-Party Website
  - Support Added /update
  - For Bot Updates
- - You want your own bot?
-   Watch this <a href="https://www.google.com">Tutorial</a> Video
+
+<b>You want your own bot?</b>
+Watch this <a href="https://www.google.com">Tutorial</a> Video
         """
         
 HELP = """   <b>AUTHORISE BOT</b> 
@@ -43,6 +44,9 @@ Account ?</b> \n
    [Max Speed 500 KBps 🙁]
  - Dropbox links 
  - Mega links
+
+<b>You want your own bot?</b>
+Watch this <a href="https://www.google.com">Tutorial</a> Video
               
         """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
@@ -65,11 +69,12 @@ DOWNLOAD_URL = "Your File Uploaded Successfully \n\n <b>Filename</b> : {} \n\n <
 AUTH_ERROR = """
 AUTH Error !! 
 Please  Send Me a  valid Token 
-   or 
-Re - Authorise Me
-You want your own bot?
+           or 
+Re - Authorise Me /auth
+
+<b>You want your own bot?</b>
 Watch this <a href="https://www.google.com">Tutorial</a> Video
-              """
+"""
 OPENLOAD = True
 DROPBOX = True
 MEGA = True
