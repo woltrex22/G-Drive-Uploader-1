@@ -56,8 +56,7 @@ NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Us
 REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise"
 AUTH_SUCC = "Authorised Successfully  !! \n\n Now Send me A direct Link :)"
 ALREADY_AUTH = "You Are Already Authorised ! \n\n Wanna Change Drive Account? \n\n Use /revoke \n\nYou want your own bot? \n Watch this <b><a href="">Tutorial</a></b> Video "
-AUTH_URL = 'Generate And Copy Your Google Drive Token And Send It To Me \n 👇 \n <a href ="{}">Get Token</a> \n You want your own bot? \n
-   Watch this <b><a href="https://www.google.com">Tutorial</a></b> Video'
+AUTH_URL = '<a href ="{}">Vist This Url</a> \n Generate And Copy Your Google Drive Token And Send It To Me'
 UPLOADING = "Download Complete !! \n Uploading Your file"
 REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Authorise Your Drive Acc. "
 # DOWN_PATH = "Downloads\\" #windows path
