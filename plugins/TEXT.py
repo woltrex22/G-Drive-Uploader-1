@@ -17,8 +17,7 @@ START = f'''Hi {}
         Third-Party Website
         Support Added /update
         For Bot Updates
-        <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>Support me</a>
-        Please Report Bugs  @aryanvikash"
+        Please Report Bugs  @aryanvikash
         '''
 buttons = button_build.ButtonMaker()
     buttons.buildbutton("How to Deploy", "https://woltrex.blogspot.com/2021/08/how-to-create-own-telegram-mirror-bot.html")
