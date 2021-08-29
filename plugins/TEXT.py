@@ -19,9 +19,6 @@ START = """Hi {}
         For Bot Updates
         Please Report Bugs  @aryanvikash
         """
-buttons = button_build.ButtonMaker()
-    buttons.buildbutton("How to Deploy", "https://woltrex.blogspot.com/2021/08/how-to-create-own-telegram-mirror-bot.html")
- 
         
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
