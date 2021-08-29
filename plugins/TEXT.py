@@ -71,9 +71,7 @@ AUTH Error !!
 Please  Send Me a  valid Token 
            or 
 Re - Authorise Me /auth
-
-<b>You want your own bot?</b>
-Watch this <code><a href="https://www.google.com">Tutorial</a></code> Video
+For more info /help
 """
 OPENLOAD = True
 DROPBOX = True
